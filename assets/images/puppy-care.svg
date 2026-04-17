@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="260" viewBox="0 0 360 260" role="img" aria-label="Smiling puppy illustration">
+  <rect width="360" height="260" rx="40" fill="#f5ebdd" />
+  <circle cx="180" cy="150" r="90" fill="#c9b6f3" />
+  <ellipse cx="110" cy="105" rx="42" ry="58" fill="#f7a9c4" />
+  <ellipse cx="250" cy="105" rx="42" ry="58" fill="#f7a9c4" />
+  <circle cx="150" cy="150" r="14" fill="#1c1c22" />
+  <circle cx="210" cy="150" r="14" fill="#1c1c22" />
+  <circle cx="154" cy="146" r="5" fill="#ffffff" />
+  <circle cx="214" cy="146" r="5" fill="#ffffff" />
+  <ellipse cx="180" cy="185" rx="20" ry="14" fill="#1c1c22" />
+  <path d="M150 205c10 12 22 18 30 18s20-6 30-18" fill="none" stroke="#1c1c22" stroke-width="7" stroke-linecap="round" />
+  <circle cx="70" cy="200" r="10" fill="#f8d66d" />
+  <circle cx="290" cy="200" r="10" fill="#6ec9f5" />
+</svg>
