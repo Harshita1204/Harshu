@@ -1,3 +1,4 @@
+<h1 style="color:red;">TEST HEADER</h1>
 <?php
 if (!isset($pageTitle)) {
     $pageTitle = "HappyPaws Puppy Vet Care";
@@ -28,7 +29,9 @@ if (!isset($currentPage)) {
                 <a class="<?php echo $currentPage === "about" ? "active" : ""; ?>" href="about.php">About</a>
                 <a class="<?php echo $currentPage === "care" ? "active" : ""; ?>" href="care.php">Care</a>
                 <a class="<?php echo $currentPage === "services" ? "active" : ""; ?>" href="services.php">Services</a>
+                <a class="<?php echo $currentPage === "adoption" ? "active" : ""; ?>" href="adoption.php">Adoption</a>
                 <a class="<?php echo $currentPage === "contact" ? "active" : ""; ?>" href="contact.php">Contact</a>
+                
             </nav>
             <a class="btn btn-primary" href="contact.php">Book a Visit</a>
         </div>
